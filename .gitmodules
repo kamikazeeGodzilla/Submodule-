@@ -4,3 +4,4 @@
 [submodule "submodule2"]
 	path = submodule2
 	url = https://github.com/kamikazeeGodzilla/submodule2.git
+	branch = main
